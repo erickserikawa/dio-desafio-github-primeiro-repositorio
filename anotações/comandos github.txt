@@ -1,0 +1,15 @@
+Comandos github
+ls - lista arquivos da pasta
+mkdir - cria uma pasta
+cd - seleciona a uma pasta
+git init - inicia um repositorio git (pasta oculta)
+ls -a - lista as pastas ocultas
+cd .. - volta um nivel da pastas
+git config --global user.email "email alvo" - configura o email do usuario
+git config --global user.name nome alvo - configura o nome do usuario (sem aspas)
+git config --global --unset user.email - reseta o email
+git config --global --unset user.name - reseta o nome
+git status - verifica o status do arquivo 
+mv ./ - move pastas
+git add * - adiciona o arquivo do modo untracked tracked para staged
+git commit -m "frase" - comitar o arquivo (movendo o arquivo de stage para commit)
